@@ -1,0 +1,13 @@
+url,permissions,allow post,post data,expected error type,notes
+'',1,0,,0,"simple",
+'/auth/activate',1,0,,0,"",
+'/auth/change_email',1,0,,0,"",
+'/auth/change_password',1,0,,0,"",
+'/auth/forget_password',1,0,,0,"",
+'/auth/login',1,0,,0,"",
+'/auth/logout',1,0,,0,"",
+'/auth/register',1,0,,0,"",
+'/auth/reset_email',1,0,,0,"",
+'/auth/reset_password',1,0,,0,"",
+'/auth/send_again',1,0,,0,"",
+'/auth/unregister',1,0,,0,"")

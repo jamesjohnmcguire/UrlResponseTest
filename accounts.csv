@@ -1,0 +1,2 @@
+type,description,username,email, post data
+1,Unregistered user,johndoe,john.doe@example.com,{"username":"johndoe","email":"john.doe@example.com","password":"letmein","confirm_password" :"letmein")
